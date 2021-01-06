@@ -10,7 +10,7 @@
 
 # Introduction
 
-Welcome to the first SIAM FM Programming Challenge sponsored by MathWorks! The main focus of quantitative and data science roles in the finance industry today is to implement research in a real-world context. Student teams, composed of undergraduate and graduates from any activity areas of SIAM, shall partake in a two month programming challenge to solve a mathematical programming problem arising in financial modeling using state-of-the-art computational techniques implemented in Matlab. Winning teams shall be awarded cash prizes at a FM21 award ceremony which shall take place either virtually or in hybrid mode between June 1st-4th in Philadelphia. Please take note of the important deadlines below and ensure that your team is registered by 11:59pm EST, January 31st, 2021. 
+Welcome to the first SIAM FM Programming Challenge sponsored by MathWorks! The main focus of quantitative and data science roles in the finance industry today is to implement research in a real-world context. Student teams, composed of undergraduate and graduates from any activity areas of SIAM, shall partake in a two month programming challenge to solve a mathematical programming problem arising in financial modeling using Matlab. Winning teams shall be awarded cash prizes at a FM21 award ceremony which shall take place either virtually or in hybrid mode between June 1st-4th in Philadelphia. Please take note of the important deadlines below and ensure that your team is registered by 11:59pm EST, January 31st, 2021. 
 
 
 # Competition Rules 
@@ -34,6 +34,7 @@ The winning team shall receive $500, and teams in second and third place shall r
 - 11:59pm EST, January 31st: Team registration deadline closes.
 - 11:59pm EST, March 31st: Submission deadline.
 - 5:00pm EST, April the 16th: Selection of finalist teams. 
+- June 1st-4th: Award Ceremony at SIAM FM21 (date and time TBA).
 
 # Programming Challenge Instructions
 
