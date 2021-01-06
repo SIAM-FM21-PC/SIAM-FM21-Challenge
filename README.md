@@ -10,7 +10,7 @@
 
 # Introduction
 
-Welcome the first SIAM FM Programming Challenge sponsored by MathWorks. The main focus of quantitative and data science roles in the finance industry today is to implement research in a real-world context. Student teams, composed of undergraduate and graduates from any activity areas of SIAM, shall partake in a two month programming challenge to solve a mathematical programming problem arising in financial modeling using state-of-the-art computational techniques implemented in Matlab. Winning teams shall be awarded cash prizes at a FM21 award ceremony which shall take place either virtually or in hybrid mode between June 1st-4th in Philadelphia. Please take note of the important deadlines below and ensure that your team is registered by 11:59pm EST, January 31st, 2021. 
+Welcome to the first SIAM FM Programming Challenge sponsored by MathWorks! The main focus of quantitative and data science roles in the finance industry today is to implement research in a real-world context. Student teams, composed of undergraduate and graduates from any activity areas of SIAM, shall partake in a two month programming challenge to solve a mathematical programming problem arising in financial modeling using state-of-the-art computational techniques implemented in Matlab. Winning teams shall be awarded cash prizes at a FM21 award ceremony which shall take place either virtually or in hybrid mode between June 1st-4th in Philadelphia. Please take note of the important deadlines below and ensure that your team is registered by 11:59pm EST, January 31st, 2021. 
 
 
 # Competition Rules 
@@ -53,7 +53,7 @@ Please register your team [!here] for the deadline of January 31st. In the unlik
 
 # Slack Channel Updates
 
-From time to time, the committee shall make announcements and provide additional clarification through the slack channel: . You are strongly encouraged to subscribe to the channel, post questions and stay abreadst of the latest updates. This webpage shall also be periodically updated and you should check the latest version of the webpage before submitting your solution. You can download the slack app for your smartphone or desktop at no cost.
+From time to time, the committee shall make announcements and provide additional clarification through the slack channel: . You are strongly encouraged to subscribe to the channel, post questions and stay abreadst of the latest updates. You can download the slack app for your smartphone or desktop at no cost. This webpage shall also be periodically updated and you should check the latest version of the webpage before submitting your solution. 
 
 # Contact Information
 
