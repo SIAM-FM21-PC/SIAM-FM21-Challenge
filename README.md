@@ -2,6 +2,6 @@
 
 
 ![MathWorks Logo](/images/MathWorks.png)
-Format: ![MathWorks](https://www.mathworks.com/academia/student-competitions/siam-financial-mathematics-and-engineering-student-programming-competition.html)
+![MathWorks](https://www.mathworks.com/academia/student-competitions/siam-financial-mathematics-and-engineering-student-programming-competition.html)
 
 
