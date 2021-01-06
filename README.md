@@ -2,7 +2,7 @@
 
 
 <p float="left">
-  <img src="SIAM.png" width="200" height="120"/>
+  <img src="SIAM.png" width="160" height="120"/>
   <img src="MathWorks.png" width="500" height="100" /> 
 </p>
 
