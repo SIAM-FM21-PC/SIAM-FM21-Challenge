@@ -51,7 +51,7 @@ It is important to clarify that the test function should not perform any optimiz
 
 # Registration 
 
-Please register your team ![here]() before the deadline of January 31st. In the unlikely event that the team changes after the registration deadline, please contact the programming challenge committee for approval. Teams that do not register their team by the deadline or change their team members without approval shall be disqualified from the competition.
+Please register your team ![here](https://forms.gle/FX9eDgjbSW8CKNRY7) before the deadline of January 31st. In the unlikely event that the team changes after the registration deadline, please contact the programming challenge committee for approval. Teams that do not register their team by the deadline or change their team members without approval shall be disqualified from the competition.
 
 # Slack Channel Updates
 
