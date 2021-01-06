@@ -20,7 +20,7 @@ Teams shall consist of up to 3 members with a minimum of two. Teams can be compo
 The programming challenge has been structured to encourage wide engagement across the student community, providing participant teams the necessary bandwidth to apply various methodologies known across the quant industry and the research community to the same problem. Solutions shall consist of both MATLAB code submissions in addition to a short written report describing the solution. Each team submission shall be scored according the following rubric: up to 40% shall be awarded for performance of the team’s solution on test data, up to 40% shall be awarded for novelty of the solution, and up to 20% shall be awarded for clarity of the solution approach as evidenced by the quality of the report and the submitted code.
 
 MathWorks, makers of MATLAB and Simulink, is offering participating teams complimentary software, tutorials, and videos.
-[!Find out more about how technical computing and Model-Based Design can help you compete](https://www.mathworks.com/academia/student-competitions/siam-financial-mathematics-and-engineering-student-programming-competition.html
+![Find out more about how technical computing and Model-Based Design can help you compete](https://www.mathworks.com/academia/student-competitions/siam-financial-mathematics-and-engineering-student-programming-competition.html
 ).
 
 
@@ -37,7 +37,7 @@ The winning team shall receive $500, and teams in second and third place shall r
 
 # Programming Challenge Instructions
 
-The programming challenge shall consist of optimizing a portfolio of stocks by constructing a trading strategy which uses historical stock prices. You shall use a market simulator provided to you to generate the stock price history with market impact. The specification of the problem together with the modeling and documentation requirements are provided [!here](ProblemDescription.PDF).  See [!example MATLAB code](MarketSimulatorExample.m) for an example of how to use it.  Note that the values of the parameters in the market simulator have been preset by the programming challenge committee but you are free to change them.
+The programming challenge shall consist of optimizing a portfolio of stocks by constructing a trading strategy which uses historical stock prices. You shall use a market simulator provided to you to generate the stock price history with market impact. The specification of the problem together with the modeling and documentation requirements are provided ![here](ProblemDescription.PDF).  See ![example MATLAB code](MarketSimulatorExample.m) for an example of how to use it.  Note that the values of the parameters in the market simulator have been preset by the programming challenge committee but you are free to change them.
 
 At the end of the competition, each team shall submit their code and report to the programming challenge committee by the April 31st deadline. The team must provide an additional test function, in a file test.m, which shall take as an argument a market_simulator object, use the optimal set of weights (found during training) and return the evaluated maximized utility function:
 
