@@ -51,7 +51,7 @@ It is important to clarify that the test function should not perform any optimiz
 
 # Registration 
 
-Please register your team <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfuwpSznTRB4ZHVZUqNAsga5BbRdT07oN2j2aw3heS8SX2sww/viewform?embedded=true" width="640" height="1310" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> before the deadline of January 31st. In the unlikely event that the team changes after the registration deadline, please contact the programming challenge committee for approval. Teams that do not register their team by the deadline or change their team members without approval shall be disqualified from the competition.
+Please register your team ![here](https://docs.google.com/forms/d/e/1FAIpQLSfuwpSznTRB4ZHVZUqNAsga5BbRdT07oN2j2aw3heS8SX2sww/viewform?embedded=true) before the deadline of January 31st. In the unlikely event that the team changes after the registration deadline, please contact the programming challenge committee for approval. Teams that do not register their team by the deadline or change their team members without approval shall be disqualified from the competition.
 
 # Slack Channel Updates
 
