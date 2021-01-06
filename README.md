@@ -2,8 +2,8 @@
 
 
 <p float="left">
-  <img src="SIAM.png" width="50" />
-  <img src="MathWorks.png" width="100" /> 
+  <img src="SIAM.png" width="200" />
+  <img src="MathWorks.png" width="500" /> 
 </p>
 
 
