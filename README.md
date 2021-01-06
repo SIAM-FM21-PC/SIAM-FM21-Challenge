@@ -20,8 +20,8 @@ Teams shall consist of up to 3 members with a minimum of two. Teams can be compo
 The programming challenge has been structured to encourage wide engagement across the student community, providing participant teams the necessary bandwidth to apply various methodologies known across the quant industry and the research community to the same problem. Solutions shall consist of both MATLAB code submissions in addition to a short written report describing the solution. Each team submission shall be scored according the following rubric: up to 40% shall be awarded for performance of the team’s solution on test data, up to 40% shall be awarded for novelty of the solution, and up to 20% shall be awarded for clarity of the solution approach as evidenced by the quality of the report and the submitted code.
 
 MathWorks, makers of MATLAB and Simulink, is offering participating teams complimentary software, tutorials, and videos.
-Find out more about how technical computing and Model-Based Design can help you compete:
-https://www.mathworks.com/academia/student-competitions/siam-financial-mathematics-and-engineering-student-programming-competition.html
+[!Find out more about how technical computing and Model-Based Design can help you compete](https://www.mathworks.com/academia/student-competitions/siam-financial-mathematics-and-engineering-student-programming-competition.html
+).
 
 
 # Prizes
@@ -49,7 +49,7 @@ It is important to clarify that the test function should not perform any optimiz
 
 # Registration 
 
-Please register your team [!here] for the deadline of January 31st. In the unlikely event that the team changes after the registration deadline, please contact the programming challenge committee for approval. Teams that do not register their team by the deadline or change their team members without approval shall be disqualified from the competition.
+Please register your team [!here]() for the deadline of January 31st. In the unlikely event that the team changes after the registration deadline, please contact the programming challenge committee for approval. Teams that do not register their team by the deadline or change their team members without approval shall be disqualified from the competition.
 
 # Slack Channel Updates
 
