@@ -55,8 +55,7 @@ Please register your team using this link: https://forms.gle/h8AiKabmdYnjwiux9 .
 
 # Slack Channel Updates
 
-From time to time, the committee shall make announcements and provide additional clarification through the ![SIAM FM21 challenge slack channel](https://join.slack.com/t/siamfm21progr-kcw5581/shared_invite/zt-klgcd2xx-bRg_BeB1blJrscQ567yLXw
-). You are strongly encouraged to subscribe to the channel, post questions and stay abreadst of the latest updates. You can download the slack app for your smartphone or desktop at no cost. This webpage shall also be periodically updated and you should check the latest version of the webpage before submitting your solution. 
+From time to time, the committee shall make announcements and provide additional clarification through Slack. You can subscribe to the channel here: https://join.slack.com/t/siamfm21progr-kcw5581/shared_invite/zt-klgcd2xx-bRg_BeB1blJrscQ567yLXw . You are strongly encouraged to subscribe to the channel, post questions and stay abreadst of the latest updates. You can download the slack app for your smartphone or desktop at no cost. This webpage shall also be periodically updated and you should check the latest version of the webpage before submitting your solution. 
 
 # Contact Information
 
