@@ -41,11 +41,12 @@ The winning team shall receive $500, and teams in second and third place shall r
 The programming challenge shall consist of optimizing a portfolio of stocks by constructing a trading strategy which uses historical stock prices. You shall use a market simulator provided to you to generate the stock price history with market impact. The specification of the problem together with the modeling and documentation requirements are provided ![here](ProblemDescription.PDF).  See ![example MATLAB code](MarketSimulatorExample.m) for an example of how to use it.  Note that the values of the parameters in the market simulator have been preset by the programming challenge committee but you are free to change them.
 
 At the end of the competition, each team shall submit their code and report to the programming challenge committee by the March 31st deadline. The team must provide an additional test function, in a file test.m, which shall take as an argument a market_simulator object, use the optimal set of weights (found during training) and return the evaluated maximized utility function:
-
+<p>
 function utility= test(market_simulator)
     ... 
     utility=...
 end
+  </p>
 It is important to clarify that the test function should not perform any optimization. Note also that the program challenge committee shall modify the parameters of the market simulator for testing purposes and run each team’s test function with several new market simulator objects to obtain the maximized utilty function. Each team shall be ranked by their aggregate utility function values across the test cases and assigned up to 40% of the overall competition score. Further details of where to submit your team solution shall be added here later.
 
 # Registration 
