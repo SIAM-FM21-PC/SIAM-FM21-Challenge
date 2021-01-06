@@ -42,10 +42,10 @@ The programming challenge shall consist of optimizing a portfolio of stocks by c
 
 At the end of the competition, each team shall submit their code and report to the programming challenge committee by the March 31st deadline. The team must provide an additional test function, in a file test.m, which shall take as an argument a market_simulator object, use the optimal set of weights (found during training) and return the evaluated maximized utility function:
 <p>
-function utility= test(market_simulator)
-    ... 
-    utility=...
-end
+function utility= test(market_simulator)</br>
+    ... </br>
+    utility=...</br>
+end</br>
   </p>
 It is important to clarify that the test function should not perform any optimization. Note also that the program challenge committee shall modify the parameters of the market simulator for testing purposes and run each team’s test function with several new market simulator objects to obtain the maximized utilty function. Each team shall be ranked by their aggregate utility function values across the test cases and assigned up to 40% of the overall competition score. Further details of where to submit your team solution shall be added here later.
 
