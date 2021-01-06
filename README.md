@@ -1,1 +1,7 @@
-# SIAM-FM21-Challenge
+# SIAM-FM21 Programming Challenge Sponsored by MathWorks
+
+
+![MathWorks Logo](/images/MathWorks.png)
+Format: ![MathWorks](https://www.mathworks.com/academia/student-competitions/siam-financial-mathematics-and-engineering-student-programming-competition.html)
+
+
