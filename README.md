@@ -1,8 +1,9 @@
 # SIAM-FM21 Programming Challenge Sponsored by MathWorks
 
 
-![SIAM](SIAM.png) [![homepage][1 { width=50% }]][2]
+<p float="left">
+  <img src="SIAM.png" width="50" />
+  <img src="MathWorks.png" width="100" /> 
+</p>
 
-[1]:  MathWorks.png 
-[2]:  https://www.mathworks.com/academia/student-competitions/siam-financial-mathematics-and-engineering-student-programming-competition.html "Redirect to MathWorks server"
 
