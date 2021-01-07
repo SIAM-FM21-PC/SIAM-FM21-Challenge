@@ -26,7 +26,7 @@ MathWorks, makers of MATLAB and Simulink, is offering participating teams compli
 
 # Prizes
 
-The winning team shall receive $500, and teams in second, third, and fourth place shall respectively receive $300, $200, and $100. Each invited team shall be reimbursed for travel expenses by an amount not to exceed $660. The team can decide how best to split the travel reimbursement among their members. For instance they can delegate one member to attend and present who will be assisted with $660, or have three members attend the conference, each assisted with $220). 
+The winning team shall receive $400, and teams in second, third, and fourth place shall respectively receive $300, $200, and $100. Each invited team shall be reimbursed for travel expenses by an amount not to exceed $660. The team can decide how best to split the travel reimbursement among their members. For instance they can delegate one member to attend and present who will be assisted with $660, or have three members attend the conference, each assisted with $220). 
 
 # Important Dates 
 
@@ -59,7 +59,7 @@ From time to time, the committee shall make announcements and provide additional
 
 # Contact Information
 
-The SIAM FM21 Programming Challenge Committee consists of academics and practitioners:
+The SIAM FM21 Programming Challenge Committee:
 
 - Matthew Dixon, Assistant Professor, Department of Applied Math, Illinois Tech. Email: matthew [dot] dixon [at] iit [dot] edu (Chair)
 - Stuart Kozola, Head of Product Management and Strategy - Quantitative Finance, MathWorks. Email: skozola [at] mathworks [dot] com
