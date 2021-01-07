@@ -10,7 +10,7 @@
 
 # Introduction
 
-Welcome to the first SIAM FM Programming Challenge sponsored by MathWorks! The main focus of quantitative and data science roles in the finance industry today is to implement research in a real-world context. Student teams, composed of undergraduate and graduates from any activity areas of SIAM, shall partake in a two month programming challenge to solve a mathematical programming problem arising in financial modeling using Matlab. Winning teams shall be awarded cash prizes at a FM21 award ceremony which shall take place either virtually or in hybrid mode between June 1st-4th in Philadelphia. Please take note of the important deadlines below and ensure that your team is registered by 11:59pm EST, January 31st, 2021. 
+Welcome to the first SIAM FM Programming Challenge sponsored by MathWorks! The main focus of quantitative and data science roles in the finance industry today is to implement research in a real-world context. Student teams, composed of undergraduate and graduates from any activity areas of SIAM, shall partake in a two month programming challenge to solve a mathematical programming problem arising in financial modeling using Matlab. Winning teams shall be awarded cash prizes at a FM21 award ceremony which shall take place either virtually or in hybrid mode between June 1st-4th in Philadelphia. Please take note of the important deadlines below and ensure that your team is registered by 11:59pm EST, January 31, 2021. 
 
 
 # Competition Rules 
@@ -30,17 +30,17 @@ The winning team shall receive $400, and teams in second, third, and fourth plac
 
 # Important Dates 
 
-- 11:00am EST, January 25th: Q&A webinar with the SIAM FM21 programming challenge committee (details sent via Slack). 
-- 11:59pm EST, January 31st: Team registration deadline closes.
-- 11:59pm EST, March 31st: Submission deadline.
-- 5:00pm EST, April 16th: Selection of finalist teams. 
-- June 1st-4th: Award Ceremony at SIAM FM21 (date and time TBA).
+- 11:00am EST, January 25: Q&A webinar with the SIAM FM21 programming challenge committee (details sent via Slack). 
+- 11:59pm EST, January 31: Team registration deadline closes.
+- 11:59pm EST, March 31: Submission deadline.
+- 5:00pm EST, April 16: Selection of finalist teams. 
+- June 1-4: Award Ceremony at SIAM FM21 (date and time TBA).
 
 # Programming Challenge Instructions
 
 The programming challenge shall consist of optimizing a portfolio of stocks by constructing a trading strategy which uses historical stock prices. You shall use the ![market simulator](MarketSimulator.m) to generate the stock price history with market impact. The specification of the problem together with the modeling and documentation requirements are provided ![here](ProblemDescription.PDF).  See the ![example](run_strategy.m) for guidance on how to create a strategy and update the simulator.  Note that the values of the parameters in the market simulator have been preset by the programming challenge committee but you are free to change them.
 
-At the end of the competition, each team shall submit their code and report to the programming challenge committee by the March 31st deadline. The team must provide an additional test function, in a file test.m, which shall take as an argument a market_simulator object, use the optimal set of weights (found during training) and return the evaluated maximized utility function:
+At the end of the competition, each team shall submit their code and report to the programming challenge committee by the March 31 deadline. The team must provide an additional test function, in a file test.m, which shall take as an argument a market_simulator object, use the optimal set of weights (found during training) and return the evaluated maximized utility function:
 <p>
 function utility= test(market_simulator)</br>
     &nbsp;&nbsp;&nbsp... </br>
