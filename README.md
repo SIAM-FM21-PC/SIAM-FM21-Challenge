@@ -15,7 +15,7 @@ Welcome to the first SIAM FM Programming Challenge sponsored by MathWorks! The m
 
 # Competition Rules 
 
-Teams shall consist of up to 3 members with a minimum of two. Teams can be composed of actively enrolled undergraduate and graduate students from all disciplines of applied mathematics, computational science and engineering. We strongly encourage multi-disciplinary teams. By enrolling in the challenge, at least one member of your team must attend the conference if invited. We shall invite the top 4 teams to present. 
+Teams shall consist of up to 3 members with a minimum of 2. Teams can be composed of actively enrolled undergraduate and graduate students from all disciplines of applied mathematics, computational science and engineering. We strongly encourage multi-disciplinary teams. By enrolling in the challenge, at least one member of your team must attend the conference if invited. We shall invite the top 4 teams to present. 
 
 The programming challenge has been structured to encourage wide engagement across the student community, providing participant teams the necessary bandwidth to apply various methodologies known across the quant industry and the research community to the same problem. Solutions shall consist of both MATLAB code submissions in addition to a short written report describing the solution. Each team submission shall be scored according the following rubric: up to 40% shall be awarded for performance of the team’s solution on test data, up to 40% shall be awarded for novelty of the solution, and up to 20% shall be awarded for clarity of the solution approach as evidenced by the quality of the report and the submitted code.
 
