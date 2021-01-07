@@ -15,7 +15,7 @@ Welcome to the first SIAM FM Programming Challenge sponsored by MathWorks! The m
 
 # Competition Rules 
 
-Teams shall consist of up to 3 members with a minimum of two. Teams can be composed of actively enrolled undergraduate and graduate students from all disciplines of applied mathematics and computational science and engineering. We strongly encourage multi-disciplinary teams. By enrolling in the challenge, at least one member of your team must attend the conference if invited. We shall invite the top 3 teams to present. 
+Teams shall consist of up to 3 members with a minimum of two. Teams can be composed of actively enrolled undergraduate and graduate students from all disciplines of applied mathematics, computational science and engineering. We strongly encourage multi-disciplinary teams. By enrolling in the challenge, at least one member of your team must attend the conference if invited. We shall invite the top 4 teams to present. 
 
 The programming challenge has been structured to encourage wide engagement across the student community, providing participant teams the necessary bandwidth to apply various methodologies known across the quant industry and the research community to the same problem. Solutions shall consist of both MATLAB code submissions in addition to a short written report describing the solution. Each team submission shall be scored according the following rubric: up to 40% shall be awarded for performance of the team’s solution on test data, up to 40% shall be awarded for novelty of the solution, and up to 20% shall be awarded for clarity of the solution approach as evidenced by the quality of the report and the submitted code.
 
@@ -26,7 +26,7 @@ MathWorks, makers of MATLAB and Simulink, is offering participating teams compli
 
 # Prizes
 
-The winning team shall receive $500, and teams in second and third place shall respectively receive $300 and $200. Each invited team shall be reimbursed for travel expenses by an amount not to exceed $660. The team can decide how best to split the travel reimbursement among their members. For instance they can delegate one member to attend and present who will be assisted with $660, or have three members attend the conference, each assisted with $220). 
+The winning team shall receive $500, and teams in second, third, and fourth place shall respectively receive $300, $200, and $100. Each invited team shall be reimbursed for travel expenses by an amount not to exceed $660. The team can decide how best to split the travel reimbursement among their members. For instance they can delegate one member to attend and present who will be assisted with $660, or have three members attend the conference, each assisted with $220). 
 
 # Important Dates 
 
