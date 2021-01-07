@@ -63,7 +63,6 @@ The SIAM FM21 Programming Challenge Committee consists of academics and practiti
 
 - Matthew Dixon, Assistant Professor, Department of Applied Math, Illinois Tech. Email: matthew [dot] dixon [at] iit [dot] edu (Chair)
 - Stuart Kozola, Head of Product Management and Strategy - Quantitative Finance, MathWorks. Email: skozola [at] mathworks [dot] com
-- Philippe Casgrain, Postdoctoral Researcher, Seminar for Applied Math, ETH Zurich. Email: philippe [dot] casgrain [at] math [dot] ethz [dot] ch
 
 
 
