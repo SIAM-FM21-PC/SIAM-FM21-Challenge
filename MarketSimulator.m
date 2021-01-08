@@ -1,4 +1,4 @@
-classdef MarketSimulator
+classdef MarketSimulator < handle
    properties
       d {mustBeInteger,mustBePositive}
       T {mustBeInteger,mustBePositive}
@@ -14,8 +14,8 @@ classdef MarketSimulator
       eta {mustBeReal,mustBeFinite,mustBeNonnegative}
    end
    properties (Access = private)
-      Sigma(:,:) {mustBeReal,mustBeFinite,mustBeNonnegative}
-      K(:,:) {mustBeReal,mustBeFinite}
+      M(:,:) {mustBeReal,mustBeFinite}
+      c(:,1) {mustBeReal,mustBeFinite}
       mu(:,1) {mustBeReal,mustBeFinite}
    end
    methods
@@ -27,18 +27,18 @@ classdef MarketSimulator
         d = obj.d;
         % Validate Sizes of paramStruct items and assign
         mu = paramStruct.mu;
-        K = paramStruct.K;
-        Sigma = paramStruct.Sigma;
+        c = paramStruct.c;
+        M = paramStruct.M;
         if isvector(mu)&&(numel(mu)==d)
             obj.mu = squeeze(mu)';
         else
             error('mu is of incorrect size')
         end
-        if ismatrix(K)&&(size(K,1)==d)&&(size(K,2)==d)
-            obj.K = K;
+        if isvector(c)&&(numel(mu)==d)
+            obj.c = c;
         end
-        if ismatrix(Sigma)&&(size(Sigma,1)==d)&&(size(Sigma,2)==d)
-            obj.Sigma = Sigma;
+        if ismatrix(M)&&(size(M,1)==d)&&(size(M,2)==d)
+            obj.M = M;
         end
         obj.eta = paramStruct.eta;
         % Run a first reset
@@ -79,7 +79,7 @@ classdef MarketSimulator
          % Generate stock-price increments and calculate stock return
          xi_cur = normrnd(0,1,obj.d,1);
          s_last = obj.s_cur;
-         obj.s_cur = obj.genPriceStep(obj.s_cur,xi_cur);
+         obj.s_cur = obj.genPriceStep(obj.s_cur,w_delta,xi_cur);
          obj.s_hist(:,obj.t+1) = obj.s_cur;
          r_s_cur = (obj.s_cur-s_last)./s_last;
          % Calculate new portfolio return
@@ -110,10 +110,13 @@ classdef MarketSimulator
       end
    end
    methods (Access = private)
-       function snew = genPriceStep(obj,s,xi)
+       function snew = genPriceStep(obj,s,dw,xi)
            S = log(s);
-           dS = obj.mu + obj.K*S + obj.Sigma * xi;
+           dS = obj.mu + obj.mktImpact(dw) + obj.M * xi;
            snew = exp(S + dS);
+       end
+       function imp = mktImpact(obj,sdw)
+           imp = obj.c .* sign(sdw) .* sqrt(abs(sdw));
        end
    end
 end
