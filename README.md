@@ -38,7 +38,7 @@ The winning team shall receive $400, and teams in second, third, and fourth plac
 
 # Programming Challenge Instructions
 
-The programming challenge shall consist of optimizing a portfolio of stocks by constructing a trading strategy which uses historical stock prices. You shall use the ![market simulator](MarketSimulator.m) to generate the stock price history with market impact. The specification of the problem together with the modeling and documentation requirements are provided ![here](SIAM_FM_21_Programming_Challenge.pdf).  See the ![run_strategy](run_strategy.m) for details of how to initialize and update the simulator using an example strategy and examples of how to plot the results. You should replace the example strategy with your own and implement. Note that the values of the parameters in run_strategy.m file have been preset by the programming challenge committee but you are free to change them.
+The programming challenge shall consist of optimizing a portfolio of stocks by constructing a trading strategy which uses historical stock prices. You shall use the ![market simulator](MarketSimulator.m) to generate the stock price history with market impact. The specification of the problem together with the modeling and documentation requirements are provided ![here](SIAM_FM_21_Programming_Challenge.pdf).  See ![run_strategy](run_strategy.m) for details of how to initialize and update the simulator using an example strategy and examples of how to plot the results. You should replace the example strategy with your own implementation. Note that the values of the market simulator parameters in the run_strategy.m file have been preset by the programming challenge committee but you are free to (and should) change them.
 
 At the end of the competition, each team shall submit their code and report to the programming challenge committee by the March 31 deadline. The team must provide an additional test function, in a file test_strategy.m, which shall take as an argument a market simulator object, use the optimal set of weights (found during training) and return the updated market simulator object as follows:
 <p>
@@ -57,7 +57,7 @@ Please register your team using this link: https://forms.gle/h8AiKabmdYnjwiux9 .
 
 # Slack Channel Updates
 
-From time to time, the committee shall make announcements and provide additional clarification through Slack. You can subscribe to the channel here: https://join.slack.com/t/siamfm21progr-kcw5581/shared_invite/zt-klgcd2xx-bRg_BeB1blJrscQ567yLXw . You are strongly encouraged to subscribe to the channel, post questions and stay abreadst of the latest updates. You can download the slack app for your smartphone or desktop at no cost. This webpage shall also be periodically updated and you should check the latest version of the webpage before submitting your solution. 
+From time to time, the committee shall make announcements and provide additional clarification through Slack. You can subscribe to the channel here: https://join.slack.com/t/siamfm21progr-kcw5581/shared_invite/zt-klgcd2xx-bRg_BeB1blJrscQ567yLXw . You are strongly encouraged to subscribe to the channel, post questions and stay abreadst of the latest updates. You can download the slack app for your smartphone or desktop at no cost. This webpage shall also be periodically updated and you should check the latest version before submitting your solution. 
 
 # Contact Information
 
