@@ -26,7 +26,7 @@ MathWorks, makers of MATLAB and Simulink, is offering participating teams compli
 
 # Prizes
 
-The winning team shall receive $400, and teams in second, third, and fourth place shall respectively receive $300, $200, and $100. Each invited team shall be reimbursed for travel expenses by an amount not to exceed $150. The team can decide how best to split the travel reimbursement among their members. For instance they can delegate one member to attend and present who will be assisted with $150, or have three members attend the conference, each assisted with $50). 
+The winning team shall receive $400, and teams in second, third, and fourth place shall respectively receive $300, $200, and $100. Each invited team shall be reimbursed for travel expenses by an amount not to exceed $150 per participant. 
 
 # Important Dates 
 
