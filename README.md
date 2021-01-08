@@ -10,7 +10,7 @@
 
 # Introduction
 
-Welcome to the first SIAM FM Programming Challenge sponsored by MathWorks! The main focus of quantitative and data science roles in the finance industry today is to implement research in a real-world context. Student teams, composed of undergraduate and graduates from any activity areas of SIAM, shall partake in a two month programming challenge to solve a mathematical programming problem arising in financial modeling using Matlab. Winning teams shall be awarded cash prizes at a FM21 award ceremony which shall take place either virtually or in hybrid mode between June 1st-4th in Philadelphia. Please take note of the important deadlines below and ensure that your team is registered by 11:59pm EST, January 31, 2021. 
+Welcome to the first SIAM FM Programming Challenge sponsored by MathWorks! The main focus of quantitative and data science roles in the finance industry today is to implement research in a real-world context. Student teams, composed of undergraduate and graduates from any activity areas of SIAM, shall partake in a two month programming challenge to solve a mathematical programming problem arising in financial modeling using MATLAB. Winning teams shall be awarded cash prizes at a FM21 award ceremony which shall take place either virtually or in hybrid mode between June 1st-4th in Philadelphia. Please take note of the important deadlines below and ensure that your team is registered by 11:59pm EST, January 31, 2021. 
 
 
 # Competition Rules 
@@ -26,7 +26,7 @@ MathWorks, makers of MATLAB and Simulink, is offering participating teams compli
 
 # Prizes
 
-The winning team shall receive $400, and teams in second, third, and fourth place shall respectively receive $300, $200, and $100. Each invited team shall be reimbursed for travel expenses by an amount not to exceed $660. The team can decide how best to split the travel reimbursement among their members. For instance they can delegate one member to attend and present who will be assisted with $660, or have three members attend the conference, each assisted with $220). 
+The winning team shall receive $400, and teams in second, third, and fourth place shall respectively receive $300, $200, and $100. Each invited team shall be reimbursed for travel expenses by an amount not to exceed $150. The team can decide how best to split the travel reimbursement among their members. For instance they can delegate one member to attend and present who will be assisted with $150, or have three members attend the conference, each assisted with $50). 
 
 # Important Dates 
 
