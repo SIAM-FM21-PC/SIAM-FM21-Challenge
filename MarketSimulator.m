@@ -109,14 +109,14 @@ classdef MarketSimulator < handle
          end
       end
    end
-   methods (Access = private)
+   methods (Access = private) % log stock price dynamics under market impact
        function snew = genPriceStep(obj,s,dw,xi)
            S = log(s);
            dS = obj.mu + obj.mktImpact(dw) + obj.M * xi;
            snew = exp(S + dS);
        end
-       function imp = mktImpact(obj,sdw)
-           imp = obj.c .* sign(sdw) .* sqrt(abs(sdw));
+       function imp = mktImpact(obj,dw) %kappa function
+           imp = obj.c .* sign(dw) .* sqrt(abs(dw));
        end
    end
 end
